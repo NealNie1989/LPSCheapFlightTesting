@@ -1,0 +1,1 @@
+This is an example of a User Story of Search for the Cheapest Fare by Selenium Webdriver C# according to The Page Object Model. The framework uses the 29th Dec and 31st Dec as an example, so if you use it after 28th Dec, please notice me and I will change the date for verify. Thank you very much.
